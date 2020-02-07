@@ -1,2 +1,18 @@
 # HOLLOW-DIAMOND
-Click on the above link to get the solution
+#
+#
+# Sample Input 0:
+# 5
+#
+# Sample Output 0:
+# 
+# * * * * *   * * * * *  
+# * * * *       * * * *  
+# * * *           * * *  
+# * *               * *  
+# *                   *  
+# *                   *  
+# * *               * *  
+# * * *           * * *  
+# * * * *       * * * *  
+# * * * * *   * * * * *  
