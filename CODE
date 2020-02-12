@@ -13,7 +13,7 @@ public class StarPattern {
                     System.out.print(" ");
                     System.out.print(" ");
                 }
-                System.out.print(" ");
+            
                 for (int j = N - i; j >= 0; j--) {
                     System.out.print("*");
                     System.out.print(" ");
@@ -31,7 +31,7 @@ public class StarPattern {
                 System.out.print(" ");
                 System.out.print(" ");
             }
-            System.out.print(" ");
+            
             for (int j = 0; j <= N - i; j++) {
                 System.out.print("*");
                 System.out.print(" ");
